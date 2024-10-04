@@ -1,4 +1,4 @@
-# Projet de Gestion de Données Elasticsearch avec Docker Compose
+# Projet de Gestion de Données Elasticsearch 
 
 ## Description
 
