@@ -24,8 +24,8 @@ Ce projet déploie une stack complète Elastic (Elasticsearch, Logstash, Kibana)
 1. Clonez ce dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
-   cd votre-projet
+   git clone https://github.com/MOUGINM/elasticsearch_with_kibana/tree/main
+   cd elasticsearch_with_kibana
 
 2. Lancez la stack Elastic avec Docker Compose :
 
