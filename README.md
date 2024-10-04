@@ -26,3 +26,13 @@ Ce projet déploie une stack complète Elastic (Elasticsearch, Logstash, Kibana)
    ```bash
    git clone https://github.com/votre-utilisateur/votre-projet.git
    cd votre-projet
+
+2. Lancez la stack Elastic avec Docker Compose :
+
+   ```bash
+   docker-compose up -d
+
+
+
+
+   
