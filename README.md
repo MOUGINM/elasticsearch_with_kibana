@@ -32,6 +32,13 @@ Ce projet déploie une stack complète Elastic (Elasticsearch, Logstash, Kibana)
    ```bash
    docker-compose up -d
 
+3. Accédez à Kibana via  :
+
+   ```bash
+   http://localhost:5601
+
+
+
 
 
 
