@@ -1,4 +1,4 @@
-# Projet de Gestion de Données Elasticsearch 
+# Projet de Gestion de Données Elasticsearch + Kibana avec Docker
 
 ## Description
 
